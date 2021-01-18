@@ -3,7 +3,7 @@
 
 
 /*
- * @author Dhananjay Kumar
+ * @author yogesh kumar gond
  * MNNIT ALLAHABAD
  * Big Integer library in C++, single file implementation.
  */
